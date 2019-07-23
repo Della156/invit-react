@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/invit-react/static/css/main.5c016f5d.chunk.css",
+    "main.js": "/invit-react/static/js/main.22fa476e.chunk.js",
+    "main.js.map": "/invit-react/static/js/main.22fa476e.chunk.js.map",
+    "runtime~main.js": "/invit-react/static/js/runtime~main.ba1937f4.js",
+    "runtime~main.js.map": "/invit-react/static/js/runtime~main.ba1937f4.js.map",
+    "static/js/2.b41502e9.chunk.js": "/invit-react/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/invit-react/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/invit-react/index.html",
+    "precache-manifest.319503463ae713d1cc5fe05a38e72740.js": "/invit-react/precache-manifest.319503463ae713d1cc5fe05a38e72740.js",
+    "service-worker.js": "/invit-react/service-worker.js",
+    "static/css/main.5c016f5d.chunk.css.map": "/invit-react/static/css/main.5c016f5d.chunk.css.map",
+    "static/media/logo.svg": "/invit-react/static/media/logo.5d5d9eef.svg"
+  }
+}
